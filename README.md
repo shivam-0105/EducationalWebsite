@@ -14,3 +14,5 @@ I hope you enjoy the app
 In case of any queries, suggestion or anything, you can contact me : Mail Id : shivampanchal0105@gmail.com
 
 Thank you spending you precious time. Have a nice day :)
+
+> *ps : My friend [@Shah-Aayush](https://github.com/Shah-Aayush) got full marks on showing this project in Web-Technology subject 😂*
