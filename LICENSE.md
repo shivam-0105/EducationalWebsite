@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2021 [Shivam Panchal](https://github.com/shivam-0105)[Aayush Shah](https://github.com/Shah-Aayush)
+Copyright (c) 2021 [Shivam Panchal](https://github.com/shivam-0105) & [Aayush Shah](https://github.com/Shah-Aayush)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
